@@ -1,0 +1,17 @@
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\bin\Debug\net6.0-windows\Gerador_de_senha.exe
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\bin\Debug\net6.0-windows\Gerador_de_senha.deps.json
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\bin\Debug\net6.0-windows\Gerador_de_senha.runtimeconfig.json
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\bin\Debug\net6.0-windows\Gerador_de_senha.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\bin\Debug\net6.0-windows\Gerador_de_senha.pdb
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.Form1.resources
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.csproj.GenerateResource.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.AssemblyInfoInputs.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.AssemblyInfo.cs
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.csproj.CoreCompileInputs.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\refint\Gerador_de_senha.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.pdb
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.genruntimeconfig.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\ref\Gerador_de_senha.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Gerador de senha\Gerador_de_senha\Gerador_de_senha\obj\Debug\net6.0-windows\Gerador_de_senha.CadastramentoF.resources
